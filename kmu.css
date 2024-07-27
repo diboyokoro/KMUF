@@ -85,7 +85,7 @@ div.header{
     position: relative;
     background-color: rgb(255, 255, 255);
     border-radius: 30px;
-    margin-left: 1000px;
+    margin-left: 580px;
     margin-top: 50px;
     width: 250px;
     height: 40px;
@@ -95,7 +95,9 @@ div.header{
 @media(max-width: 600px){
     .welcome{color: rgb(34, 2, 26);
     font-size: large;
-    margin-left: -10px};}
+    margin-left: -10px;
+
+}}
 
 @media (max-width: 600px)    
 {.goal{
